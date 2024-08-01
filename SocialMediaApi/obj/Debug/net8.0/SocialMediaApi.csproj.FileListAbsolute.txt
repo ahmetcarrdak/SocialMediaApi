@@ -63,7 +63,4 @@
 /Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/obj/Debug/net8.0/SocialMediaApi.pdb
 /Users/ahmetcardak/Desktop/SocialMediaAPI/SocialMediaApi/obj/Debug/net8.0/SocialMediaApi.genruntimeconfig.cache
 /Users/ahmetcardak/Desktop/SocialMediaAPI/SocialMediaApi/obj/Debug/net8.0/ref/SocialMediaApi.dll
-/Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/bin/Debug/net8.0/social-media-frontend/package-lock.json
-/Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/bin/Debug/net8.0/social-media-frontend/package.json
-/Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/bin/Debug/net8.0/social-media-frontend/public/manifest.json
-/Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/bin/Debug/net8.0/social-media-frontend/tsconfig.json
+/Users/ahmetcardak/Desktop/SocialMediaApi/SocialMediaApi/obj/Debug/net8.0/SocialMediaApi.sourcelink.json
