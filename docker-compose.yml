@@ -1,0 +1,6 @@
+﻿services:
+  socialmediaapi:
+    image: socialmediaapi
+    build:
+      context: .
+      dockerfile: SocialMediaApi/Dockerfile
